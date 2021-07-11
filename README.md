@@ -6,4 +6,4 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SametCimen1&exclude_repo=github-readme-stats,FitnessPro,SametCimen1.github.io))](https://github.com/anuraghazra/github-readme-stats) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SametCimen1)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SametCimen1)](https://github.com/SametCimen1/github-readme-stats)
