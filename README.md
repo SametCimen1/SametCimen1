@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SametCimen1&theme=highcontrast&border=ffffff&stroke=ffffffring=93edcb&fire=93e1ed)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SametCimen1&theme=highcontrast&border=ffffff&stroke=ffffffring=93edcb&fire=93e1ed&currStreakNum=0ff3c)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SametCimen1&show_icons=true&theme=dracula&text_color=FFFFFF&title_color=77FFCE&icon_color=E4FF00)
 
