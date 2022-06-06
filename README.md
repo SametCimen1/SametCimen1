@@ -1,5 +1,4 @@
 ## Hi there 👋
-### I love react 
 
 ![](https://komarev.com/ghpvc/?username=sametcimen1&color=blue)
 
